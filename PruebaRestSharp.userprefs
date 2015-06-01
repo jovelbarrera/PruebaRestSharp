@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Droid\PruebaRestSharp.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.FunApp" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaRestSharp\Views\LoginPage.cs">
+    <Files>
+      <File FileName="PruebaRestSharp\Views\LoginPage.cs" Line="22" Column="59" />
+      <File FileName="PruebaRestSharp\Services\EventService.cs" Line="35" Column="5" />
+      <File FileName="PruebaRestSharp\PruebaRestSharp.cs" Line="1" Column="1" />
+      <File FileName="PruebaRestSharp\Model\EventItem.cs" Line="1" Column="1" />
+      <File FileName="PruebaRestSharp\Services\Settings.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.pruebarestsharp">
+  <uses-sdk android:minSdkVersion="15" />
+  <application android:label="PruebaRestSharp" android:name="mono.android.app.Application">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="PruebaRestSharp.Droid" android:name="md5dabcfa4d587596623286a2b2b3712518.MainActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.pruebarestsharp.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="PruebaRestSharp.Droid" android:name="com.companyname.pruebarestsharp.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>
